@@ -12,8 +12,7 @@ export function Apresentation() {
         </Typography>
         <Typography className={style.description}>
           Desenvolvedor Frontend com 2 anos de experiência,
-          comecei meus estudos de frontend em 2020. Ingressei no mercado ao final de 2020
-          no mercado, atualmente minha stack é:<br></br>
+          comecei meus estudos de frontend em 2020. Ingressei no mercado ao final de 2020, atualmente minha stack é:<br></br>
           <Link
             href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
             target={"_blank"}
