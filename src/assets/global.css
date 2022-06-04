@@ -1,0 +1,21 @@
+:root {
+  --background-primary: #252729;
+  --text: #7D7D7D;
+  --text-light: #E3E3E3;
+  --background-secondary: #3D3D3D;
+  --active: orange;
+}
+
+*{
+  font-family: 'Roboto', sans-serif;
+}
+a{
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#root {
+  background-color: var(--background-primary);
+  min-height: 100vw;
+  color: var(--text-light);
+}

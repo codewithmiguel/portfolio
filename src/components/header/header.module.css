@@ -1,0 +1,28 @@
+.header {
+  width: 100%;
+  background-color: var(--background-secondary);
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.ul {
+  display: flex;
+  gap: 1rem;
+}
+
+.items {
+  list-style: none;  
+}
+.items a, .nav a {
+  color: var(--text-light);
+  font-weight: bold;
+  transition: .2s;
+}
+
+a:hover {
+  color: var(--active);
+}
