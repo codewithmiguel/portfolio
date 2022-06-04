@@ -19,10 +19,9 @@
 }
 .items a, .nav a {
   color: var(--text-light);
-  font-weight: bold;
   transition: .2s;
 }
 
-a:hover {
-  color: var(--active);
+header a:hover {
+  color: var(--blue-gradient);
 }
