@@ -1,5 +1,5 @@
 import { Email, Instagram, LinkedIn, WhatsApp } from "@mui/icons-material";
-import { Box, Container, Link } from "@mui/material";
+import { Box, Link } from "@mui/material";
 import style from './contact.module.css';
 
 export function Contact() {
