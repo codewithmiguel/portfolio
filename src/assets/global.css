@@ -19,6 +19,5 @@ a{
 
 #root {
   background-color: var(--background-primary);
-  min-height: 100vw;
   color: var(--text-light);
 }
