@@ -30,10 +30,12 @@ export function Apresentation() {
             target={"_blank"}
           > Typescript</Link>
         </Typography>
-        <button className={style.button}>
-          <Download sx={{ marginRight: '0.5rem' }} />
-          Curriculo
-        </button>
+        <Link href="/public/assets/certificates/Curriculo2022.pdf" download="CurriculoPedro">
+          <button className={style.button}>
+            <Download sx={{ marginRight: '0.5rem' }} />
+            Curriculo
+          </button>
+        </Link>
       </Box>
       <Box className={style.photoHub}>
         <Link
