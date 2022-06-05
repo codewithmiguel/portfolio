@@ -2,6 +2,7 @@
   background: var(--background-secondary);
   width: 100% ;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   flex-direction: row;
   height: 100%;

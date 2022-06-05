@@ -3,7 +3,7 @@ import { Apresentation } from './components/apresentation';
 import { Header } from './components/header/index';
 import { Courses } from './components/courses/index';
 import { MyServices } from './components/myServices/index';
-import { Contact } from './components/Contact';
+import { Contact } from './components/contact';
 
 function App() {
 

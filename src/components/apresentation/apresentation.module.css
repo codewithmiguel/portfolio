@@ -1,5 +1,25 @@
+@media screen and (max-width: 892px) {
+  .apresentation {
+    flex-direction: column-reverse;
+    margin: 6rem auto !important;
+  }
+  .name {
+    margin-top: 2rem !important;
+    text-align: center;
+  }
+  .apresentationDetails {
+    text-align: justify;
+
+  }
+  .photo {
+    height: 15rem !important;
+    width: 15rem !important;
+
+  }
+}
 .apresentation {
   display: flex;
+  flex-wrap: wrap;
   max-width: 73rem;
   justify-content: space-between;
   align-items: center;
