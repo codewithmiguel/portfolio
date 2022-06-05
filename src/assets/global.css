@@ -21,9 +21,14 @@ a{
   background-color: var(--background-primary);
   color: var(--text-light);
 }
+body::-webkit-scrollbar {
+     width: 0.5rem
+} 
+   
+body::-webkit-scrollbar-thumb {   
+background-color: var(--blue-gradient);   
+}
 
-#root ::-webkit-scrollbar-thumb {
-  background-color: var(--blue-gradient) !important;    /* color of the scroll thumb */
-  border-radius: 20px !important;       /* roundness of the scroll thumb */
-  border: 3px solid var(--blue-gradient) !important;  /* creates padding around scroll thumb */
+html {
+  scroll-behavior: smooth;
 }
