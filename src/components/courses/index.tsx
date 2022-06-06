@@ -33,7 +33,7 @@ export function Courses() {
         textAlign: 'center',
         fontSize: '3rem',
         margin: '4rem auto 2rem'
-      }}>Cursos</Typography>
+      }}>Cursos Concluídos</Typography>
       <Box
         className={style.container}
       >

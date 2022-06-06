@@ -8,7 +8,7 @@ export function MyServices() {
         textAlign: 'center',
         fontSize: '3rem',
         margin: '10rem auto 1rem'
-      }}>Serviços</Typography>
+      }}>Meus Serviços</Typography>
       <Box className={style.container}>
         <Box className={style.box}>
           <Typography className={style.title}>Desenvolvedor Frontend<br />(Freelance only)</Typography>
