@@ -16,7 +16,7 @@ export function MyServices() {
           <Typography className={style.description}>
             Desenvolvimento Frontend, criação de interfaces modernas,
             com as melhores práticas e tecnologias mais modernas, acessível e
-            dinâmico! Diposnível para novos Freelance.
+            dinâmico! Disponível para novos Freelance.
           </Typography>
         </Box>
         <Box className={style.box}>
