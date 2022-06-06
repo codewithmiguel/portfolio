@@ -12,16 +12,14 @@ export function MyServices() {
       <Box className={style.container}>
         <Box className={style.box}>
           <Typography className={style.title}>Desenvolvedor Frontend<br />(Freelance only)</Typography>
-          <Typography className={style.value}>R$50,00 P/H</Typography>
           <Typography className={style.description}>
-            Desenvolvimento Frontend, criação de interfaces modernas,
+            Desenvolvedor Frontend, criação de interfaces modernas,
             com as melhores práticas e tecnologias mais modernas, acessível e
-            dinâmico! Disponível para novos Freelance.
+            dinâmico! Disponível para novos Freelances.
           </Typography>
         </Box>
         <Box className={style.box}>
-          <Typography className={style.title}>Manutenção de Sites <br />OFF-WP</Typography>
-          <Typography className={style.value}>R$50,00 P/H</Typography>
+          <Typography className={style.title}>Manutenção do<br />seu site</Typography>
           <Typography className={style.description}>
             Manutenção de plataformas, refatoração do código, ajuda na solução de BUG.
             Entrega rápida e com qualidade, realizo validação da cobertura de testes de um projeto

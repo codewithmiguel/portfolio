@@ -16,7 +16,7 @@
   padding: 1rem;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   box-shadow: 10px 10px 14px #00000045;
 }
@@ -41,7 +41,7 @@
 }
 
 .description {
-  text-align: justify;
+  text-align: left;
   width: 80%;
   margin-bottom: 2rem !important;
 }
